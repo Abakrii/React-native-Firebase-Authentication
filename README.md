@@ -3,7 +3,12 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
 ## Table of Contents
-
+ 
+ 
+ ### Real world examples
+ 
+ <img src="https://github.com/AbdelrahmanSalemBakry111/React-native-Firebase-Authentication/blob/FBA-1/gif/2018_07_26_15_20_02[1].gif?raw=true" width="240">
+ 
 * [Updating to New Releases](#updating-to-new-releases)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
